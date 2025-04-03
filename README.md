@@ -18,8 +18,8 @@ run-marine-park-api
 ```
 http://127.0.0.1:8000
 ```
-3. Docs on
+2. Docs on
 ```
 http://127.0.0.1:8000/docs
 ```
-5. Have a play 🎉
+3. Have a play 🎉
