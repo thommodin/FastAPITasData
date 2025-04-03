@@ -42,6 +42,7 @@ async def read_items(
     skip: int = 0,                      # Default value 0 for pagination start
     limit: int = 10,                    # Default value 10 for pagination size
     location: Optional[str] = Query(None, description="Filter items by name containing this string (case-insensitive)"), # Optional query filter
+    kind: Optional[str] = Query(None, description="Filter items by type containing this string (case-insensitive)"), # Optional query filter
 ):
     """
     Retrieve a list of items with optional filtering and pagination.
@@ -51,6 +52,9 @@ async def read_items(
     # Apply filtering logic (simulating DB queries)
     if location:
         results = [item for item in results if location.lower() in item.get("RESNAME", "").lower()]
+
+    if kind:
+        results = [item for item in results if kind.lower() in item.get("ZONENAME", "").lower()]
 
     # Apply pagination
     paginated_results = results[skip : skip + limit]
