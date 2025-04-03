@@ -5,15 +5,14 @@ from pandas import read_csv
 import uvicorn
 import os
 
-# 1. Initialize FastAPI app
+# Init FastAPI
 app = FastAPI(
     title="Marine Park API",
     description="An API to demonstrate querying marine park locations",
     version="0.0.1",
 )
 
-# 2. Define your data model using Pydantic
-# This ensures data validation and structures your responses.
+# Define data model
 class MarineParkLocation(BaseModel):
     OBJECTID: int
     NETNAME: str
@@ -27,24 +26,24 @@ class MarineParkLocation(BaseModel):
     SHAPELEN: float
 
 
-# 3. Simulate a Data Source (Replace this with actual DB connection later)
-# Using a list of dictionaries for simplicity.
+# Load hard data
+# TODO: Replace with real database connection
 marine_parks = read_csv('data/Australian_Marine_Parks.csv').to_dict(orient='records')
 
-# 4. Root Endpoint (optional, good for health checks)
+# Root Endpoint (optional, good for health checks)
 @app.get("/")
 async def read_root():
     return {"message": "Welcome to the Queryable Item API!"}
 
-# 5. Endpoint to get multiple items with querying/filtering
+# Endpoint to get multiple items with querying/filtering
 #    - Uses Query Parameters: skip, limit, name_contains
 #    - Uses `response_model` to structure the output based on the Pydantic model.
 @app.get("/marine_parks/", response_model=List[MarineParkLocation])
 async def read_items(
     skip: int = 0,                      # Default value 0 for pagination start
     limit: int = 10,                    # Default value 10 for pagination size
-    location: Optional[str] = Query(None, description="Filter items by name containing this string (case-insensitive)"), # Optional query filter
-    kind: Optional[str] = Query(None, description="Filter items by type containing this string (case-insensitive)"), # Optional query filter
+    location: Optional[str] = Query(None, description="Filter items by name containing this string (case-insensitive)"),
+    kind: Optional[str] = Query(None, description="Filter items by kind containing this string (case-insensitive)"),
 ):
     """
     Retrieve a list of items with optional filtering and pagination.
@@ -64,9 +63,9 @@ async def read_items(
     # Pydantic will automatically validate the output against List[Item]
     return paginated_results
 
-# 6. Endpoint to get a specific item by its ID
-#    - Uses a Path Parameter: item_id
-#    - Includes error handling for items not found.
+# Endpoint to get a specific item by its ID
+#    - Uses a Path Parameter: OBJECTID
+#    - Includes error handling for items not found
 @app.get("/marine_parks/{OBJECTID}", response_model=MarineParkLocation)
 async def read_item(OBJECTID: int):
     """

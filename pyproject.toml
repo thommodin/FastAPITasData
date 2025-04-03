@@ -1,7 +1,9 @@
+# Environment dependencies
 [build-system]
 requires = ["setuptools", "setuptools-scm"]
 build-backend = "setuptools.build_meta"
 
+# Project dependencies
 [project]
 name = "my_package"
 authors = [
@@ -17,7 +19,7 @@ dependencies = [
     "uvicorn",
 ]
 
-
+# Server & dev optional dependencies
 [project.optional-dependencies]
 server = [
     "uvicorn[standard]",
@@ -28,8 +30,8 @@ dev = [
 
 # Command-line scripts - makes your app runnable after installation
 [project.scripts]
-run-marine-park-api = "main:cli_run" # Points to the function we created
+run-marine-park-api = "main:cli_run"
 
-
+# Project url
 [project.urls]
-Repository = "https://github.com/thommodin/FastAPITasData" # Example URL
+Repository = "https://github.com/thommodin/FastAPITasData" # Github url
