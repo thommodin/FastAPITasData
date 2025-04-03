@@ -1,13 +1,15 @@
 from fastapi import FastAPI, HTTPException, Query
-from pydantic import BaseModel, Field
+from pydantic import BaseModel
 from typing import List, Optional
 from pandas import read_csv
+import uvicorn
+import os
 
 # 1. Initialize FastAPI app
 app = FastAPI(
     title="Marine Park API",
     description="An API to demonstrate querying marine park locations",
-    version="1.0.0",
+    version="0.0.1",
 )
 
 # 2. Define your data model using Pydantic
@@ -27,7 +29,7 @@ class MarineParkLocation(BaseModel):
 
 # 3. Simulate a Data Source (Replace this with actual DB connection later)
 # Using a list of dictionaries for simplicity.
-marine_parks = read_csv('../data/Australian_Marine_Parks.csv').to_dict(orient='records')
+marine_parks = read_csv('data/Australian_Marine_Parks.csv').to_dict(orient='records')
 
 # 4. Root Endpoint (optional, good for health checks)
 @app.get("/")
@@ -76,3 +78,13 @@ async def read_item(OBJECTID: int):
         raise HTTPException(status_code=404, detail=f"marine park with ID {OBJECTID} not found")
     # Pydantic validates the output against the Item model
     return marine_park
+
+def cli_run(host: str = "127.0.0.1", port: int = 8000, reload: bool = True):
+    """Runs the FastAPI app using Uvicorn."""
+    print(f"Starting Queryable Item API server on http://{host}:{port}")
+    uvicorn.run(
+        "main:app", # Path to the app instance
+        host=host,
+        port=port,
+        reload=reload,
+    )

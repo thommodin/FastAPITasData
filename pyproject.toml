@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "my_package"
+authors = [
+    {name = "Tom Galindo", email = "thommygalindo@gmail.com"},
+]
+readme = "README.md"
+requires-python = ">=3.12"
+version = "0.0.1"
+dependencies = [
+    "pydantic",
+    "pandas",
+    "fastapi",
+    "uvicorn",
+]
+
+
+[project.optional-dependencies]
+server = [
+    "uvicorn[standard]",
+]
+dev = [
+    "pytest",
+]
+
+# Command-line scripts - makes your app runnable after installation
+[project.scripts]
+run-marine-park-api = "main:cli_run" # Points to the function we created
+
+
+[project.urls]
+Repository = "https://github.com/thommodin/FastAPITasData" # Example URL
