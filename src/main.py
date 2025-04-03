@@ -33,7 +33,7 @@ marine_parks = read_csv('data/Australian_Marine_Parks.csv').to_dict(orient='reco
 # Root Endpoint (optional, good for health checks)
 @app.get("/")
 async def read_root():
-    return {"message": "Welcome to the Queryable Item API!"}
+    return {"message": "Welcome to the Marine Park API!"}
 
 # Endpoint to get multiple items with querying/filtering
 #    - Uses Query Parameters: skip, limit, name_contains
