@@ -23,3 +23,10 @@ http://127.0.0.1:8000
 http://127.0.0.1:8000/docs
 ```
 3. Have a play 🎉
+
+
+## Testing
+Run the command:
+```
+pytest
+```
