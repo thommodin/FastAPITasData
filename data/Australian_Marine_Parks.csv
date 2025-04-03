@@ -1,0 +1,217 @@
+﻿OBJECTID,NETNAME,RESNAME,ZONENAME,ZONEIUCN,POLYGONID,NATLEGEND,AREA_KM2,SHAPEAREA,SHAPELEN
+1,South-west,South-west Corner,Special Purpose Zone (Mining Exclusion),VI,swswcspm03,Special Purpose Zone (Mining Exclusion) (IUCN VI),5897.16660271,0.57424314643255,3.8456369948164
+2,South-west,Southern Kangaroo Island,Special Purpose Zone (Mining Exclusion),VI,swskispm01,Special Purpose Zone (Mining Exclusion) (IUCN VI),629.93875577,0.0630689079149443,1.74983639811475
+3,Temperate East,Lord Howe,National Park Zone,II,telhinpz06,National Park Zone (IUCN II),6302.22644098,0.601855782729592,3.36080876325494
+4,Temperate East,Lord Howe,National Park Zone,II,telhinpz05,National Park Zone (IUCN II),203.06401273,0.0192884815827733,0.670249335876475
+5,Temperate East,Lord Howe,National Park Zone,II,telhinpz02,National Park Zone (IUCN II),2767.48805273,0.257777777368874,2.03333333173225
+6,Temperate East,Lord Howe,Recreational Use Zone,IV,telhiruz03,Recreational Use Zone (IUCN IV),1170.38107701,0.109421296253886,1.41944444380168
+7,Temperate East,Norfolk,Habitat Protection Zone,IV,tenorhpz02,Habitat Protection Zone (IUCN IV),138796.39686155,13.0262799224121,20.7508617394462
+8,Temperate East,Norfolk,National Park Zone,II,tenornpz01,National Park Zone (IUCN II),41660.6671903,3.78107426341959,7.86890896183623
+9,Temperate East,Solitary Islands,Multiple Use Zone,VI,tesolmuz01,Multiple Use Zone (IUCN VI),36.6533961,0.00341794079468411,0.332762298698391
+10,Temperate East,Solitary Islands,National Park Zone,II,tesolnpz02,National Park Zone (IUCN II),1.58902002,0.000148125923473033,0.0488784056242846
+11,Temperate East,Solitary Islands,Special Purpose Zone (Trawl),VI,tesolspt03,Special Purpose Zone (Trawl) (IUCN VI),18.10190822,0.00169714378413796,0.185300058652396
+12,Temperate East,Norfolk,Special Purpose Zone (Norfolk),VI,tenorspn03,Special Purpose Zone (Norfolk) (IUCN VI),7986.48984318,0.740875959280266,4.11770927964896
+13,Temperate East,Solitary Islands,Special Purpose Zone (Trawl),VI,tesolspt03,Special Purpose Zone (Trawl) (IUCN VI),54.40964104,0.0050888473301047,0.576514441023879
+14,South-west,Two Rocks,Multiple Use Zone,VI,swtwomuz01,Multiple Use Zone (IUCN VI),866.97086855,0.0824002545674627,1.24711379137114
+15,South-west,Two Rocks,National Park Zone,II,swtwonpz02,National Park Zone (IUCN II),15.27514472,0.00145336738456928,0.181239000827189
+16,South-west,Western Eyre,Multiple Use Zone,VI,swweymuz05,Multiple Use Zone (IUCN VI),16106.78784395,1.610028898444,7.08475969496658
+17,South-west,Western Eyre,National Park Zone,II,swweynpz03,National Park Zone (IUCN II),645.42151388,0.0624999999715234,0.999999999772187
+18,South-west,Western Eyre,Special Purpose Zone,VI,swweyspz01,Special Purpose Zone (IUCN VI),24196.24259884,2.35363511591039,10.688932123538
+19,South-west,Western Eyre,Special Purpose Zone (Trawl),VI,swweyspt02,Special Purpose Zone (Trawl) (IUCN VI),203.9399789,0.0199786672474376,0.682842833563251
+20,South-west,Western Kangaroo Island,National Park Zone,II,swwkinpz01,National Park Zone (IUCN II),119.99678139,0.011959361699226,0.518821209367797
+21,South-west,Western Kangaroo Island,Special Purpose Zone,VI,swwkispz03,Special Purpose Zone (IUCN VI),780.65067215,0.0781190193197596,1.35325641699602
+22,South-west,Western Kangaroo Island,Special Purpose Zone (Mining Exclusion),VI,swwkispm02,Special Purpose Zone (Mining Exclusion) (IUCN VI),1434.68054476,0.143371683704523,2.76635939287571
+23,Temperate East,Central Eastern,Habitat Protection Zone,IV,teceehpz01,Habitat Protection Zone (IUCN IV),40628.97571271,3.76763181333232,12.6929776492293
+24,Temperate East,Central Eastern,Habitat Protection Zone,IV,teceehpz04,Habitat Protection Zone (IUCN IV),20707.09212295,1.9847222218946,6.42999999824171
+25,Temperate East,Central Eastern,Multiple Use Zone,VI,teceemuz02,Multiple Use Zone (IUCN VI),608.22750618,0.0570000572096886,1.14021825190059
+26,Temperate East,Solitary Islands,Special Purpose Zone (Trawl),VI,tesolspt03,Special Purpose Zone (Trawl) (IUCN VI),41.56941631,0.00388002924611816,0.343013669685806
+27,South-west,Twilight,National Park Zone,II,swtwinpz03,National Park Zone (IUCN II),3604.89253235,0.346839425259253,2.74143433788666
+28,South-west,Twilight,Special Purpose Zone (Mining Exclusion),VI,swtwispm01,Special Purpose Zone (Mining Exclusion) (IUCN VI),472.88954814,0.045370753136215,0.872054139035
+29,South-west,Twilight,Special Purpose Zone (Mining Exclusion),VI,swtwispm02,Special Purpose Zone (Mining Exclusion) (IUCN VI),563.52972872,0.0540511427852589,0.960180861230069
+30,Temperate East,Central Eastern,National Park Zone,II,teceenpz03,National Park Zone (IUCN II),8109.75425018,0.763888888902663,3.50000000010097
+31,Temperate East,Cod Grounds,National Park Zone,II,tecodnpz01,National Park Zone (IUCN II),4.06915952,0.000387037049114379,0.0788888899209478
+32,Temperate East,Gifford,Habitat Protection Zone,IV,tegifhpz01,Habitat Protection Zone (IUCN IV),5828.49861855,0.528249624777662,3.10453131649605
+33,Temperate East,Hunter,Habitat Protection Zone,IV,tehunhpz02,Habitat Protection Zone (IUCN IV),4518.52545995,0.432988985937572,2.69772558939269
+34,North,West Cape York,Special Purpose Zone,VI,nowcyspz03,Special Purpose Zone (IUCN VI),2568.62028636,0.212738728968277,1.92913076173351
+35,North-west,Argo-Rowley Terrace,Multiple Use Zone,VI,nwartmuz03,Multiple Use Zone (IUCN VI),4480.94850346,0.381214000562588,4.42952611069372
+36,North-west,Argo-Rowley Terrace,Multiple Use Zone,VI,nwartmuz02,Multiple Use Zone (IUCN VI),104331.08875024,8.81668319225214,14.8834812120371
+37,North-west,Argo-Rowley Terrace,National Park Zone,II,nwartnpz01,National Park Zone (IUCN II),36050.11783994,3.02063905409774,9.10680801318282
+38,North-west,Argo-Rowley Terrace,Special Purpose Zone (Trawl),VI,nwartspt04,Special Purpose Zone (Trawl) (IUCN VI),1140.77268436,0.0968740538982295,2.65990804954911
+39,North-west,Ashmore Reef,Recreational Use Zone,IV,nwashruz02,Recreational Use Zone (IUCN IV),33.54787657,0.00278679316371254,0.377089377221159
+40,North-west,Ashmore Reef,Sanctuary Zone,Ia,nwashsan01,Sanctuary Zone (IUCN Ia),549.91897477,0.0456881193058366,1.10895800135866
+41,North-west,Carnarvon Canyon,Habitat Protection Zone,IV,nwcachpz01,Habitat Protection Zone (IUCN IV),6176.6949943,0.546666666143604,2.96666666533206
+42,North-west,Cartier Island,Sanctuary Zone,Ia,nwcaisan01,Sanctuary Zone (IUCN Ia),172.37449889,0.0143365379874471,0.424494368455751
+43,North-west,Dampier,Habitat Protection Zone,IV,nwdamhpz02,Habitat Protection Zone (IUCN IV),104.43688731,0.00903359075929372,0.496899344940712
+44,North-west,Dampier,Multiple Use Zone,VI,nwdammuz03,Multiple Use Zone (IUCN VI),1074.43566974,0.0929910436198834,1.25124386322369
+45,North-west,Dampier,National Park Zone,II,nwdamnpz01,National Park Zone (IUCN II),72.71041646,0.00628966470314711,0.32079508614727
+46,North-west,Eighty Mile Beach,Multiple Use Zone,VI,nwembmuz01,Multiple Use Zone (IUCN VI),10785.22203384,0.927993586585887,7.07451524252665
+47,North-west,Gascoyne,Habitat Protection Zone,IV,nwgashpz02,Habitat Protection Zone (IUCN IV),38810.39514308,3.39695363615,8.14962389841113
+48,North-west,Gascoyne,Habitat Protection Zone,IV,nwgashpz04,Habitat Protection Zone (IUCN IV),172.01101936,0.015253623142585,0.584016870342998
+49,North-west,Gascoyne,Multiple Use Zone,VI,nwgasmuz03,Multiple Use Zone (IUCN VI),33651.8404085,2.93326796798769,11.2039640361973
+50,North-west,Gascoyne,National Park Zone,II,nwgasnpz01,National Park Zone (IUCN II),9131.86002735,0.794304171375777,4.14972404296214
+51,North-west,Kimberley,Habitat Protection Zone,IV,nwkimhpz04,Habitat Protection Zone (IUCN IV),1682.85914742,0.141717272426604,2.62364215355014
+52,Coral Sea,Coral Sea,Habitat Protection Zone,IV,cscsphpz28,Habitat Protection Zone (IUCN IV),643165.55110349,54.9418482573902,67.3853459161142
+53,Temperate East,Hunter,Special Purpose Zone (Trawl),VI,tehunspt01,Special Purpose Zone (Trawl) (IUCN VI),1738.83813683,0.166883908408497,2.06563750605799
+54,Temperate East,Jervis,Habitat Protection Zone,IV,tejerhpz02,Habitat Protection Zone (IUCN IV),1965.19793002,0.194543490541525,1.8107176249029
+55,Temperate East,Jervis,Special Purpose Zone (Trawl),VI,tejerspt01,Special Purpose Zone (Trawl) (IUCN VI),508.22359993,0.0502983109649414,1.00001041019199
+56,Temperate East,Lord Howe,Habitat Protection Zone,IV,telhihpz07,Habitat Protection Zone (IUCN IV),54884.34250328,5.32540595576355,10.932105066198
+57,Temperate East,Lord Howe,Habitat Protection Zone (Lord Howe),IV,telhihpl04,Habitat Protection Zone (Lord Howe) (IUCN IV),5136.4792148,0.487759565710174,4.40971860309607
+58,Temperate East,Lord Howe,Multiple Use Zone,VI,telhimuz01,Multiple Use Zone (IUCN VI),39661.60866189,3.71280092739107,10.6861111109324
+59,North,Oceanic Shoals,Habitat Protection Zone,IV,noocshpz02,Habitat Protection Zone (IUCN IV),6928.77087786,0.573607225428939,3.91659918688949
+60,North,Oceanic Shoals,Multiple Use Zone,VI,noocsmuz03,Multiple Use Zone (IUCN VI),32486.30580708,2.69698287008435,6.45575562335972
+61,North,Oceanic Shoals,Multiple Use Zone,VI,noocsmuz05,Multiple Use Zone (IUCN VI),7477.57667334,0.617470864681317,5.2980351515553
+62,North,Oceanic Shoals,National Park Zone,II,noocsnpz01,National Park Zone (IUCN II),406.19462037,0.0336111109420853,0.733333331489415
+63,North,Oceanic Shoals,Special Purpose Zone (Trawl),VI,noocsspt04,Special Purpose Zone (Trawl) (IUCN VI),24444.29663647,2.02246556232223,6.26922087647203
+64,North,Wessel,Habitat Protection Zone,IV,noweshpz02,Habitat Protection Zone (IUCN IV),3810.92068385,0.315949289824104,3.28200891589969
+65,North,Wessel,Special Purpose Zone (Trawl),VI,nowesspt01,Special Purpose Zone (Trawl) (IUCN VI),2097.15248254,0.173499170872614,1.89533868960473
+66,North,West Cape York,Habitat Protection Zone,IV,nowcyhpz02,Habitat Protection Zone (IUCN IV),10114.41406138,0.836967100332441,5.24664020846755
+67,North,West Cape York,National Park Zone,II,nowcynpz01,National Park Zone (IUCN II),2422.09895638,0.200037392132989,2.25512532774043
+68,North,West Cape York,National Park Zone,II,nowcynpz04,National Park Zone (IUCN II),907.03391755,0.0750154664993977,1.1728057549401
+69,North,Arafura,Multiple Use Zone,VI,noaramuz02,Multiple Use Zone (IUCN VI),12421.90366567,1.02377312148732,5.29873518566235
+70,North,Arafura,Special Purpose Zone,VI,noaraspz03,Special Purpose Zone (IUCN VI),41.62894558,0.00344284885027272,0.313102341977954
+71,North,Arafura,Special Purpose Zone (Trawl),VI,noaraspt01,Special Purpose Zone (Trawl) (IUCN VI),10460.56402986,0.861174144678263,4.17537330020291
+72,North,Arnhem,Special Purpose Zone,VI,noarnspz01,Special Purpose Zone (IUCN VI),7124.86930753,0.590123749691451,3.51085154464558
+73,North,Joseph Bonaparte Gulf,Multiple Use Zone,VI,nojbgmuz02,Multiple Use Zone (IUCN VI),6345.60259247,0.53184630558667,4.3172180688809
+74,North,Gulf of Carpentaria,National Park Zone,II,nogocnpz01,National Park Zone (IUCN II),3623.08246433,0.305632100365666,4.04924569427536
+75,North,Gulf of Carpentaria,Special Purpose Zone (Trawl),VI,nogocspt02,Special Purpose Zone (Trawl) (IUCN VI),6875.5208818,0.580580121984886,4.08166900697802
+76,North,Gulf of Carpentaria,Special Purpose Zone (Trawl),VI,nogocspt03,Special Purpose Zone (Trawl) (IUCN VI),13272.32741286,1.11971500707696,5.10054239147951
+77,North,Joseph Bonaparte Gulf,Special Purpose Zone,VI,nojbgspz01,Special Purpose Zone (IUCN VI),2251.46019257,0.188249032561896,2.08930733924611
+78,Coral Sea,Coral Sea,Habitat Protection Zone,IV,cscsphpz01,Habitat Protection Zone (IUCN IV),11963.74701424,0.98816309668034,5.57377746798889
+79,Coral Sea,Coral Sea,Habitat Protection Zone (Reefs),IV,cscsphpr04,Habitat Protection Zone (Reefs) (IUCN IV),417.5560341,0.0349596105011147,0.921363038046091
+80,Coral Sea,Coral Sea,Habitat Protection Zone (Reefs),IV,cscsphpr06,Habitat Protection Zone (Reefs) (IUCN IV),8.56446362,0.000721296313348393,0.108888890237507
+81,Coral Sea,Coral Sea,Habitat Protection Zone (Reefs),IV,cscsphpr08,Habitat Protection Zone (Reefs) (IUCN IV),896.15361768,0.0758333334215515,1.13333333391357
+82,Coral Sea,Coral Sea,Habitat Protection Zone (Reefs),IV,cscsphpr07,Habitat Protection Zone (Reefs) (IUCN IV),10556.69158882,0.891817089554351,3.60620900269996
+83,Coral Sea,Coral Sea,Habitat Protection Zone (Reefs),IV,cscsphpr10,Habitat Protection Zone (Reefs) (IUCN IV),9510.59045084,0.809736436267306,3.76508061895909
+84,Coral Sea,Coral Sea,Habitat Protection Zone (Reefs),IV,cscsphpr09,Habitat Protection Zone (Reefs) (IUCN IV),3371.78095101,0.286990741090912,2.26666666872546
+85,Coral Sea,Coral Sea,Habitat Protection Zone (Reefs),IV,cscsphpr15,Habitat Protection Zone (Reefs) (IUCN IV),1006.6336464,0.086488889168544,1.2100000019881
+86,Coral Sea,Coral Sea,Habitat Protection Zone (Reefs),IV,cscsphpr18,Habitat Protection Zone (Reefs) (IUCN IV),1938.42325137,0.169305555414286,1.64999999944445
+87,Coral Sea,Coral Sea,Habitat Protection Zone (Reefs),IV,cscsphpr17,Habitat Protection Zone (Reefs) (IUCN IV),298.7816712,0.0259486111819982,0.658333333842121
+88,Coral Sea,Coral Sea,Habitat Protection Zone (Reefs),IV,cscsphpr21,Habitat Protection Zone (Reefs) (IUCN IV),611.58458253,0.0535548611211805,1.06666666684288
+89,Coral Sea,Coral Sea,Habitat Protection Zone (Reefs),IV,cscsphpr22,Habitat Protection Zone (Reefs) (IUCN IV),485.80526209,0.0428520834718674,0.846666668114708
+90,Coral Sea,Coral Sea,Habitat Protection Zone (Reefs),IV,cscsphpr20,Habitat Protection Zone (Reefs) (IUCN IV),724.02056855,0.0630208330201529,1.08611110934653
+91,Coral Sea,Coral Sea,National Park Zone,II,cscspnpz12,National Park Zone (IUCN II),4388.28525682,0.375953304155812,5.51589712995985
+92,Coral Sea,Coral Sea,National Park Zone,II,cscspnpz13,National Park Zone (IUCN II),764.71414507,0.0659115397947749,1.25367774498405
+93,Coral Sea,Coral Sea,National Park Zone,II,cscspnpz14,National Park Zone (IUCN II),2242.88519794,0.19447649293495,3.16457011083942
+94,Coral Sea,Coral Sea,National Park Zone,II,cscspnpz16,National Park Zone (IUCN II),440.00189507,0.0377605063900077,0.774896129403473
+95,Coral Sea,Coral Sea,National Park Zone,II,cscspnpz25,National Park Zone (IUCN II),2491.35538549,0.220653388093778,3.43754997632039
+96,Coral Sea,Coral Sea,National Park Zone,II,cscspnpz27,National Park Zone (IUCN II),131774.67649234,11.1534651439304,13.8697319406461
+97,Coral Sea,Coral Sea,National Park Zone,II,cscspnpz03,National Park Zone (IUCN II),1036.35767013,0.0866645777750148,1.22345440177409
+98,Coral Sea,Coral Sea,National Park Zone,II,cscspnpz02,National Park Zone (IUCN II),33808.70305653,2.81060819149737,6.76753765048217
+99,Coral Sea,Coral Sea,National Park Zone,II,cscspnpz05,National Park Zone (IUCN II),35.10812879,0.00295709877787668,0.243333334403787
+100,Coral Sea,Coral Sea,National Park Zone,II,cscspnpz11,National Park Zone (IUCN II),60489.04213483,5.12329435288328,11.2007105818582
+101,Coral Sea,Coral Sea,Special Purpose Zone (Trawl),VI,cscspspt23,Special Purpose Zone (Trawl) (IUCN VI),1695.99535203,0.147888888919224,1.54000000008036
+102,Coral Sea,Coral Sea,Special Purpose Zone (Trawl),VI,cscspspt24,Special Purpose Zone (Trawl) (IUCN VI),710.86489114,0.0632782801912287,1.09681421634578
+103,Coral Sea,Coral Sea,Special Purpose Zone (Trawl),VI,cscspspt26,Special Purpose Zone (Trawl) (IUCN VI),64073.53114015,5.57703718312015,17.0055660281091
+104,Coral Sea,Coral Sea,National Park Zone,II,cscspnpz19,National Park Zone (IUCN II),928.64048923,0.0807291667234589,1.18055555578567
+105,Indian Ocean Territories,Cocos (Keeling) Islands,National Park Zone,II,ckinpz03,National Park Zone (IUCN II),0.04852669,4.03017044908296e-06,0.00830177962852759
+106,Indian Ocean Territories,Christmas Island,National Park Zone,II,cinpz01,National Park Zone (IUCN II),273186.32265938,22.6463436543225,21.0133747008762
+107,Indian Ocean Territories,Christmas Island,Habitat Protection Zone,IV,cihpz01,Habitat Protection Zone (IUCN IV),3829.69251031,0.316279170507571,3.02216827702684
+108,Indian Ocean Territories,Cocos (Keeling) Islands,National Park Zone,II,ckinpz02,National Park Zone (IUCN II),0.06164827,5.11901984338924e-06,0.0113051596710652
+109,Indian Ocean Territories,Cocos (Keeling) Islands,National Park Zone,II,ckinpz01,National Park Zone (IUCN II),465845.59242491,38.6916420112127,23.5027683326865
+110,Indian Ocean Territories,Cocos (Keeling) Islands,Habitat Protection Zone,IV,ckihpz01,Habitat Protection Zone (IUCN IV),1208.17809188,0.10029421209071,2.16850185360814
+111,North,Limmen,Habitat Protection Zone,IV,nolimhpz01,Habitat Protection Zone (IUCN IV),1399.19843427,0.117645785950167,1.82817806107141
+112,South-west,Bremer,National Park Zone,II,swbrenpz01,National Park Zone (IUCN II),3172.43039901,0.31267093613937,3.26754864263913
+113,South-west,Bremer,Special Purpose Zone (Mining Exclusion),VI,swbrespm02,Special Purpose Zone (Mining Exclusion) (IUCN VI),539.26693406,0.0529379836639239,0.93968809755853
+114,South-west,South-west Corner,Multiple Use Zone,VI,swswcmuz02,Multiple Use Zone (IUCN VI),29628.59734988,2.89999999991387,7.79999999966037
+115,South-west,South-west Corner,Multiple Use Zone,VI,swswcmuz13,Multiple Use Zone (IUCN VI),4211.15437208,0.415269812625688,2.73450174352463
+116,South-west,South-west Corner,National Park Zone,II,swswcnpz16,National Park Zone (IUCN II),22493.11415954,2.24440987355066,7.97585842984682
+117,South-west,South-west Corner,National Park Zone,II,swswcnpz07,National Park Zone (IUCN II),120.99257648,0.0118836900810444,0.48034134295079
+118,South-west,South-west Corner,National Park Zone,II,swswcnpz15,National Park Zone (IUCN II),1112.45847133,0.108698207921215,1.45248853338263
+119,South-west,South-west Corner,National Park Zone,II,swswcnpz09,National Park Zone (IUCN II),14448.0541631,1.46220995469913,6.87234061007479
+120,South-west,South-west Corner,National Park Zone,II,swswcnpz01,National Park Zone (IUCN II),15707.54715383,1.5437378386578,6.35843930747061
+121,South-west,South-west Corner,National Park Zone,II,swswcnpz04,National Park Zone (IUCN II),411.7859889,0.0400000000356739,0.800000000356739
+122,South-west,South-west Corner,Special Purpose Zone,VI,swswcspz10,Special Purpose Zone (IUCN VI),2033.28756679,0.20151262247608,1.85058544457684
+123,South-west,Bremer,Special Purpose Zone (Mining Exclusion),VI,swbrespm03,Special Purpose Zone (Mining Exclusion) (IUCN VI),760.60223818,0.0746725573792348,1.56955506556624
+124,South-west,Eastern Recherche,National Park Zone,II,swearnpz03,National Park Zone (IUCN II),14231.14641057,1.4219988758408,7.31173792533101
+125,South-west,Geographe,Habitat Protection Zone,IV,swgeohpz03,Habitat Protection Zone (IUCN IV),21.07282881,0.00204624618581982,0.189716452370231
+126,South-west,Geographe,Multiple Use Zone,VI,swgeomuz02,Multiple Use Zone (IUCN VI),290.72830162,0.0282176670763672,1.12878419142037
+127,South-west,Geographe,National Park Zone,II,swgeonpz04,National Park Zone (IUCN II),15.27252078,0.00148267006260444,0.152878307282713
+128,South-west,Geographe,Special Purpose Zone (Mining Exclusion),VI,swgeospm01,Special Purpose Zone (Mining Exclusion) (IUCN VI),649.58341835,0.062966534899976,1.22337762224178
+129,South-west,Great Australian Bight,Multiple Use Zone,VI,swgabmuz05,Multiple Use Zone (IUCN VI),22578.39174937,2.23084134762033,8.29547498851513
+130,South-west,Great Australian Bight,National Park Zone,II,swgabnpz02,National Park Zone (IUCN II),7727.83881742,0.737855079004054,3.53395694014452
+131,South-west,Great Australian Bight,Special Purpose Zone,VI,swgabspz04,Special Purpose Zone (IUCN VI),3861.43467564,0.372296296386115,2.66444444391331
+132,South-west,Great Australian Bight,Special Purpose Zone (Mining Exclusion),VI,swgabspm03,Special Purpose Zone (Mining Exclusion) (IUCN VI),7596.38900712,0.724470880390749,3.76738487838469
+133,South-west,Great Australian Bight,Special Purpose Zone (Mining Exclusion),VI,swgabspm01,Special Purpose Zone (Mining Exclusion) (IUCN VI),4058.0561266,0.387102481940134,2.81460824480001
+134,South-west,Jurien,National Park Zone,II,swjurnpz02,National Park Zone (IUCN II),30.61275565,0.00288201039404343,0.217559770018825
+135,South-west,Jurien,Special Purpose Zone,VI,swjurspz01,Special Purpose Zone (IUCN VI),1820.28947859,0.17094157042761,1.86516679957266
+136,South-west,Murat,National Park Zone,II,swmutnpz01,National Park Zone (IUCN II),937.77318609,0.0900000000128927,1.20000000008595
+137,South-west,Perth Canyon,Habitat Protection Zone,IV,swperhpz05,Habitat Protection Zone (IUCN IV),58.24245391,0.00555555546568809,0.299999997775699
+138,South-west,Perth Canyon,Multiple Use Zone,VI,swpermuz04,Multiple Use Zone (IUCN VI),884.52260371,0.0844549204200099,1.69367372140015
+139,South-west,Perth Canyon,Multiple Use Zone,VI,swpermuz07,Multiple Use Zone (IUCN VI),931.77205591,0.0891800902581055,1.41388144750105
+140,South-west,Perth Canyon,National Park Zone,II,swpernpz06,National Park Zone (IUCN II),191.87220607,0.0183611096583321,0.567191725863976
+141,South-west,Perth Canyon,National Park Zone,II,swpernpz02,National Park Zone (IUCN II),1048.9212522,0.100000000021811,1.30000000024283
+142,South-west,South-west Corner,Habitat Protection Zone,IV,swswchpz08,Habitat Protection Zone (IUCN IV),95087.99877424,9.59759270867521,13.4601157792859
+143,South-west,South-west Corner,Multiple Use Zone,VI,swswcmuz12,Multiple Use Zone (IUCN VI),2017.33780115,0.199070314951813,2.06635667393009
+144,South-west,Perth Canyon,Habitat Protection Zone,IV,swperhpz01,Habitat Protection Zone (IUCN IV),3665.32957133,0.350000000020194,2.4000000001719
+145,South-west,Perth Canyon,Habitat Protection Zone,IV,swperhpz03,Habitat Protection Zone (IUCN IV),628.57217109,0.0599869577579541,1.20000006637663
+146,South-west,South-west Corner,Multiple Use Zone,VI,swswcmuz11,Multiple Use Zone (IUCN VI),70744.52064658,7.20581169705761,12.849492181706
+147,South-west,South-west Corner,National Park Zone,II,swswcnpz05,National Park Zone (IUCN II),547.12900241,0.0534533305724835,1.29562425474737
+148,South-west,Eastern Recherche,National Park Zone,II,swearnpz02,National Park Zone (IUCN II),1333.68652753,0.130071385800621,2.47354099566086
+149,South-west,Eastern Recherche,Special Purpose Zone,VI,swearspz01,Special Purpose Zone (IUCN VI),5010.36835715,0.490737183504727,5.00375846374766
+150,South-east,Franklin,Multiple Use Zone,VI,seframuz02,Multiple Use Zone (IUCN VI),547.65607265,0.0584478670130107,1.08905070870487
+151,South-east,Huon,Multiple Use Zone,VI,sehuomuz02,Multiple Use Zone (IUCN VI),8558.64117213,0.965485214756386,5.99534338529534
+152,South-east,Murray,National Park Zone,II,semurnpz01,National Park Zone (IUCN II),17167.59270609,1.76718509888487,9.55286627311546
+153,South-east,Nelson,National Park Zone,II,senlnpz01,National Park Zone (IUCN II),6123.08162905,0.639438134244939,3.84289128209211
+154,South-east,South Tasman Rise,National Park Zone,II,sesounpz01,National Park Zone (IUCN II),27704.34796765,3.2342615071212,9.57888041433408
+155,South-east,Franklin,National Park Zone,II,sefranpz01,National Park Zone (IUCN II),123.11378769,0.0130932931248207,0.47750924995896
+156,South-east,Huon,National Park Zone,II,sehuonpz01,National Park Zone (IUCN II),1432.14666033,0.161480330998159,1.6268470541453
+157,South-east,Tasman Fracture,National Park Zone,II,setasnpz01,National Park Zone (IUCN II),1222.80660361,0.137163743995752,2.15885193248568
+158,South-east,Tasman Fracture,Multiple Use Zone,VI,setasmuz03,Multiple Use Zone (IUCN VI),19965.0165203,2.2421563433264,7.04412150936517
+159,South-east,Tasman Fracture,National Park Zone,II,setasnpz02,National Park Zone (IUCN II),21312.72169143,2.45652475518199,7.85770581428486
+160,South-east,Murray,Multiple Use Zone,VI,semurmuz05,Multiple Use Zone (IUCN VI),4624.63106695,0.464631504115527,4.12927639434913
+161,South-east,Murray,Multiple Use Zone,VI,semurmuz04,Multiple Use Zone (IUCN VI),332.85387251,0.0335406773386917,0.993704210292929
+162,South-east,Murray,Habitat Protection Zone,IV,semurhpz02,Habitat Protection Zone (IUCN IV),2141.24329805,0.216784883739091,2.15049877556491
+163,South-east,Murray,Habitat Protection Zone,IV,semurhpz03,Habitat Protection Zone (IUCN IV),1537.40960244,0.155980241619089,1.65758087366495
+164,South-east,Zeehan,Multiple Use Zone,VI,sezeemuz03,Multiple Use Zone (IUCN VI),932.98029819,0.0982194370636474,1.53595187377833
+165,South-west,South-west Corner,Special Purpose Zone,VI,swswcspz14,Special Purpose Zone (IUCN VI),3719.62874057,0.364213765405906,3.6133799791667
+166,South-west,South-west Corner,Special Purpose Zone (Mining Exclusion),VI,swswcspm06,Special Purpose Zone (Mining Exclusion) (IUCN VI),3652.49670668,0.358151798084299,3.28470638018135
+167,South-west,Western Eyre,National Park Zone,II,swweynpz06,National Park Zone (IUCN II),15676.51641967,1.60873752473822,5.6481018275148
+168,South-west,Western Eyre,National Park Zone,II,swweynpz04,National Park Zone (IUCN II),1115.42304494,0.109122341464416,1.42637705132283
+169,North-west,Kimberley,Habitat Protection Zone,IV,nwkimhpz03,Habitat Protection Zone (IUCN IV),3982.25690997,0.336361350259061,2.83349062640956
+170,North-west,Kimberley,Multiple Use Zone,VI,nwkimmuz01,Multiple Use Zone (IUCN VI),62411.15000304,5.25203866338112,18.7760979426552
+171,North-west,Kimberley,National Park Zone,II,nwkimnpz02,National Park Zone (IUCN II),6392.29089606,0.538676062834366,5.93417598681813
+172,North-west,Mermaid Reef,National Park Zone,II,nwmernpz01,National Park Zone (IUCN II),539.87361569,0.0458333335280458,0.866666666529117
+173,North-west,Montebello,Multiple Use Zone,VI,nwmonmuz01,Multiple Use Zone (IUCN VI),3412.7973935,0.295062372007962,3.14324926287726
+174,North-west,Ningaloo,National Park Zone,II,nwninnpz02,National Park Zone (IUCN II),115.94754349,0.0101924316347586,0.464157051083285
+175,North-west,Roebuck,Multiple Use Zone,VI,nwroemuz01,Multiple Use Zone (IUCN VI),303.70493726,0.0259266067039829,0.79502094570556
+176,North-west,Shark Bay,Multiple Use Zone,VI,nwshamuz01,Multiple Use Zone (IUCN VI),7442.54191867,0.6648569099834,3.44772959639011
+177,South-east,Apollo,Multiple Use Zone,VI,seapomuz01,Multiple Use Zone (IUCN VI),1183.60062423,0.123400848913103,1.87500000047117
+178,North-west,Ningaloo,Recreational Use Zone,IV,nwninruz03,Recreational Use Zone (IUCN IV),1043.67178257,0.0920537601941863,1.79707005442801
+179,North-west,Ningaloo,Recreational Use Zone,IV,nwninruz01,Recreational Use Zone (IUCN IV),1275.58014574,0.111613503015331,2.77108661747625
+180,South-east,Boags,Multiple Use Zone,VI,seboamuz01,Multiple Use Zone (IUCN VI),537.48434144,0.056874999987561,0.999999999772187
+181,South-east,East Gippsland,Multiple Use Zone,VI,seeagmuz01,Multiple Use Zone (IUCN VI),4136.62556779,0.425127447043435,2.85899304542901
+182,South-east,Macquarie Island,National Park Zone,II,semacnpz02,National Park Zone (IUCN II),385132.56514637,53.9114642010668,50.8610266844587
+183,South-east,Macquarie Island,Sanctuary Zone,Ia,semacsan01,Sanctuary Zone (IUCN Ia),57137.10716075,8.06570571118872,15.3492171978276
+184,South-east,Macquarie Island,Habitat Protection Zone (Macquarie),IV,semachpz03,Habitat Protection Zone (Macquarie) (IUCN IV),33195.53956288,4.59714121395702,13.5082202316616
+185,South-west,Abrolhos,Habitat Protection Zone,IV,swabrhpz01,Habitat Protection Zone (IUCN IV),23238.60860957,2.08292520788871,5.8425523082449
+186,South-west,Abrolhos,Multiple Use Zone,VI,swabrmuz08,Multiple Use Zone (IUCN VI),5730.46297444,0.521485492638699,3.54670505970105
+187,South-west,Abrolhos,Multiple Use Zone,VI,swabrmuz02,Multiple Use Zone (IUCN VI),45021.22221886,4.12128627188873,10.973312578724
+188,South-west,Abrolhos,Multiple Use Zone,VI,swabrmuz04,Multiple Use Zone (IUCN VI),5792.92301667,0.534496774583804,4.02442429838539
+189,South-west,Abrolhos,National Park Zone,II,swabrnpz03,National Park Zone (IUCN II),2107.97731122,0.194228650790576,2.05100978627123
+190,South-west,Abrolhos,National Park Zone,II,swabrnpz06,National Park Zone (IUCN II),233.61144591,0.0214444446010618,0.776666668274385
+191,South-west,Abrolhos,National Park Zone,II,swabrnpz09,National Park Zone (IUCN II),205.97622721,0.0187499999689991,0.649999999672259
+192,South-west,Abrolhos,Special Purpose Zone,VI,swabrspz07,Special Purpose Zone (IUCN VI),2167.58447675,0.198361111187271,1.87666666640682
+193,South-west,Abrolhos,Special Purpose Zone,VI,swabrspz05,Special Purpose Zone (IUCN VI),3561.90161825,0.329369344515877,4.25696567166559
+194,South-east,Zeehan,National Park Zone,II,sezeenpz01,National Park Zone (IUCN II),18662.69936617,2.00527810240368,7.04113748946034
+195,South-east,Zeehan,Special Purpose Zone,VI,sezeespz02,Special Purpose Zone (IUCN VI),301.27879491,0.0317470786225275,0.724631884105233
+196,South-east,Beagle,Multiple Use Zone,VI,sebeamuz02,Multiple Use Zone (IUCN VI),2448.75781428,0.255885214461583,5.81032253372088
+197,South-east,Beagle,National Park Zone,II,sebeanpz01,National Park Zone (IUCN II),478.81270668,0.0500401219892083,0.956435497927957
+198,South-east,Freycinet,National Park Zone,II,sefrenpz02,National Park Zone (IUCN II),56792.65432108,6.19073737823902,11.2907943831779
+199,South-east,Freycinet,Recreational Use Zone,IV,sefreruz01,Recreational Use Zone (IUCN IV),322.73254723,0.0351675498699038,0.786641721326914
+200,South-east,Freycinet,Multiple Use Zone,VI,sefremuz04,Multiple Use Zone (IUCN VI),725.11157445,0.078717081025652,1.454659818035
+201,South-east,Freycinet,National Park Zone,II,sefrenpz03,National Park Zone (IUCN II),32.54415166,0.00353156602549424,0.237777882804182
+202,South-east,Freycinet,Habitat Protection Zone,IV,sefrehpz05,Habitat Protection Zone (IUCN IV),67.67878993,0.00734161261041371,0.421666715772531
+203,South-east,Flinders,Habitat Protection Zone,IV,seflihpz02,Habitat Protection Zone (IUCN IV),10891.53580359,1.15195824058148,5.40060205396128
+204,South-east,Flinders,National Park Zone,II,seflinpz01,National Park Zone (IUCN II),12721.10401239,1.33539903005966,5.74549938293898
+205,South-east,Flinders,Multiple Use Zone,VI,seflimuz04,Multiple Use Zone (IUCN VI),1129.4481166,0.120169992223783,1.94878469228588
+206,South-east,Flinders,National Park Zone,II,seflinpz05,National Park Zone (IUCN II),101.65840549,0.0108148148696669,0.425555556637763
+207,South-east,Flinders,National Park Zone,II,seflinpz03,National Park Zone (IUCN II),2202.09163794,0.234010525061872,2.01680187933853
+208,Heard Island and McDonald Islands,Heard Island and McDonald Islands,Sanctuary Zone,Ia,himisan03,Sanctuary Zone (IUCN Ia),25143.40012335,3.31685623351616,10.4036571438991
+209,Heard Island and McDonald Islands,Heard Island and McDonald Islands,Sanctuary Zone,Ia,himisan04,Sanctuary Zone (IUCN Ia),40768.51768071,5.22912401565588,11.389920264232
+210,Heard Island and McDonald Islands,Heard Island and McDonald Islands,Sanctuary Zone,Ia,himisan01,Sanctuary Zone (IUCN Ia),308.36774001,0.0399402740757659,1.16845202391409
+211,Heard Island and McDonald Islands,Heard Island and McDonald Islands,Sanctuary Zone,Ia,himisan02,Sanctuary Zone (IUCN Ia),4732.25561166,0.621477556965636,3.6743365144545
+212,Heard Island and McDonald Islands,Heard Island and McDonald Islands,National Park Zone,II,himinp07,National Park Zone (IUCN II),12577.86910317,1.71472639398231,5.22656579734492
+213,Heard Island and McDonald Islands,Heard Island and McDonald Islands,National Park Zone,II,himinp05,National Park Zone (IUCN II),118709.15580486,16.6348093682879,24.1451447363239
+214,Heard Island and McDonald Islands,Heard Island and McDonald Islands,Habitat Protection Zone,IV,himihp09,Habitat Protection Zone (IUCN IV),169964.85230599,23.1000847866881,32.7146980659471
+215,Heard Island and McDonald Islands,Heard Island and McDonald Islands,National Park Zone,II,himinp06,National Park Zone (IUCN II),7361.00265769,0.969892442659655,4.02485008619774
+216,Heard Island and McDonald Islands,Heard Island and McDonald Islands,National Park Zone,II,himinp08,National Park Zone (IUCN II),1089.47793356,0.144391784201359,2.14805628822492

@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+FastAPITasData.egg-info/PKG-INFO
+FastAPITasData.egg-info/SOURCES.txt
+FastAPITasData.egg-info/dependency_links.txt
+FastAPITasData.egg-info/top_level.txt
