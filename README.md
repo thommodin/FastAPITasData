@@ -4,7 +4,7 @@ A FastAPI project built on some publicly available Tasmanian marine data
 ## Install
 1. Clone the git repo to your local device
 2. Navigate to the new checkout
-3. Install python library requirements (WARNING: Highly recommended use of a virtual environment manager before running this step to not polute your root python install)
+3. Install python library requirements (WARNING: Highly recommended use of a virtual environment manager before running this step to not pollute your root python install)
 ```
 pip install .
 ```
