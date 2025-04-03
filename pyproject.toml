@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 
 # Project dependencies
 [project]
-name = "my_package"
+name = "marine_park_api"
 authors = [
     {name = "Tom Galindo", email = "thommygalindo@gmail.com"},
 ]
@@ -17,15 +17,15 @@ dependencies = [
     "pandas",
     "fastapi",
     "uvicorn",
+    "pytest",
+    "requests",
+    "httpx",
 ]
 
 # Server & dev optional dependencies
 [project.optional-dependencies]
 server = [
     "uvicorn[standard]",
-]
-dev = [
-    "pytest",
 ]
 
 # Command-line scripts - makes your app runnable after installation
